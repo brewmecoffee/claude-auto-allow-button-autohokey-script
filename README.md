@@ -1,5 +1,6 @@
-# Auto Button Clicker for Popups
+# Auto Button Clicker for Claude MCP (Model Context Protocol) Popups
 
+The script can be generally used for auto clicking other buttons too, based on the images.
 An AutoHotkey script that automatically detects and clicks a specific button on popups by matching an image pattern. The script runs persistently in the background and checks for the specified button every 2 seconds.
 
 ## Features
